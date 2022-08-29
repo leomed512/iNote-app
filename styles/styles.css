@@ -1,0 +1,17 @@
+.container {
+  -webkit-margin-before: 70px;
+          margin-block-start: 70px;
+}
+
+#msg {
+  color: red;
+}
+
+i {
+  color: #2767b1;
+  cursor: pointer;
+}
+
+i:hover {
+  color: #3880d3;
+}

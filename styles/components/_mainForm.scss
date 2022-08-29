@@ -1,0 +1,14 @@
+.container {
+    margin-block-start: 70px;
+}
+
+#msg {
+    color: red;
+}
+i {
+    color:#2767b1;
+    cursor: pointer;
+}
+i:hover {
+    color: lighten(#2767b1, 10%);
+}
