@@ -2,3 +2,7 @@
   -webkit-margin-before: 150px;
           margin-block-start: 150px;
 }
+
+.right {
+  border-left: solid #2767b1 2px;
+}
